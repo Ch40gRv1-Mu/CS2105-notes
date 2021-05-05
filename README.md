@@ -17,7 +17,7 @@ Contends:
 
 The physical layer is not covered in details in this notes but the knowledge is introduced during discussing other chapter. 
 note that the notes will be provided for free permanently, any charge or resell is violating author's willingness.  
-The only authoritised web:https://github.com/2211743035/CS2105-notes
+The only authoritised web:https://github.com/2211743035/CS2105-notes    
 Other recommended notes:
   1. https://github.com/mhq199657/Revision_Notes_Y2S1/tree/master/CS2105 written by Ma Hongqiang
   2. https://github.com/zhuhanming/nus-notes-cheatsheets/blob/master/cs2105/CS2105%20Cheatsheet.pdf writen by Zhu Hanming
