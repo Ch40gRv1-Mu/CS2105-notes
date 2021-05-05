@@ -15,7 +15,7 @@ Contends:
   9. Lec10:Multimedia. 
   10. Terms and Additional Notes. 
 
-The physical layer is not covered in details in this notes but the knowledge is introduced during discussing other chapter. 
+The physical layer is not covered in details in this notes but the knowledge is introduced during discussing other chapters. 
 note that the notes will be provided for free permanently, any charge or resell is violating author's willingness.  
 The only authoritised web:https://github.com/2211743035/CS2105-notes    
 
