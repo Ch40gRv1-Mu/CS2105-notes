@@ -17,7 +17,7 @@ Contends:
 
 The physical layer is not covered in details in this notes but the knowledge is introduced during discussing other chapters. 
 note that the notes will be provided for free permanently, any charge or resell is violating author's willingness.  
-The only authoritised web:https://github.com/2211743035/CS2105-notes    
+The only authoritised web:https://ch40grv1-mu.github.io/CS2105-notes/    
 
 
 Other recommended notes:
